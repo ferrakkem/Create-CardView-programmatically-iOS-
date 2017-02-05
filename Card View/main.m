@@ -2,7 +2,7 @@
 //  main.m
 //  Card View
 //
-//  Created by Btrac on 2/5/17.
+//  Created by Ferrakkem Bhuiyan on 2/5/17.
 //  Copyright © 2017 Ferrakkem Bhuiyan. All rights reserved.
 //
 

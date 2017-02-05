@@ -14,6 +14,16 @@
 		0723C6CD1E46F37800F9D73D /* Card_View.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 0723C6CB1E46F37800F9D73D /* Card_View.xcdatamodeld */; };
 		0723C6CF1E46F37800F9D73D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0723C6CE1E46F37800F9D73D /* Assets.xcassets */; };
 		0723C6D21E46F37800F9D73D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0723C6D01E46F37800F9D73D /* LaunchScreen.storyboard */; };
+		0723C6DD1E46FD7B00F9D73D /* UILabel+dynamicSizeMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 0723C6DC1E46FD7B00F9D73D /* UILabel+dynamicSizeMe.m */; };
+		0723C6E01E4703B800F9D73D /* FoodScout.png in Resources */ = {isa = PBXBuildFile; fileRef = 0723C6DF1E4703B800F9D73D /* FoodScout.png */; };
+		0723C6E31E47079600F9D73D /* dCall.png in Resources */ = {isa = PBXBuildFile; fileRef = 0723C6E11E47079600F9D73D /* dCall.png */; };
+		0723C6E41E47079600F9D73D /* dShare.png in Resources */ = {isa = PBXBuildFile; fileRef = 0723C6E21E47079600F9D73D /* dShare.png */; };
+		0723C6E81E4707FE00F9D73D /* UIImage+ResizeImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 0723C6E71E4707FE00F9D73D /* UIImage+ResizeImage.m */; };
+		0723C6EB1E471F0500F9D73D /* col.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0723C6E91E471F0500F9D73D /* col.jpeg */; };
+		0723C6EC1E471F0500F9D73D /* Food.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0723C6EA1E471F0500F9D73D /* Food.jpg */; };
+		0723C6F21E4720BE00F9D73D /* KICamera.png in Resources */ = {isa = PBXBuildFile; fileRef = 0723C6EE1E4720BE00F9D73D /* KICamera.png */; };
+		0723C6F31E4720BE00F9D73D /* KICamera@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0723C6EF1E4720BE00F9D73D /* KICamera@2x.png */; };
+		0723C6F41E4720BE00F9D73D /* KIImagePager.m in Sources */ = {isa = PBXBuildFile; fileRef = 0723C6F11E4720BE00F9D73D /* KIImagePager.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +38,19 @@
 		0723C6CE1E46F37800F9D73D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0723C6D11E46F37800F9D73D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0723C6D31E46F37800F9D73D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0723C6DB1E46FD7B00F9D73D /* UILabel+dynamicSizeMe.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UILabel+dynamicSizeMe.h"; sourceTree = "<group>"; };
+		0723C6DC1E46FD7B00F9D73D /* UILabel+dynamicSizeMe.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UILabel+dynamicSizeMe.m"; sourceTree = "<group>"; };
+		0723C6DF1E4703B800F9D73D /* FoodScout.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FoodScout.png; sourceTree = "<group>"; };
+		0723C6E11E47079600F9D73D /* dCall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dCall.png; sourceTree = "<group>"; };
+		0723C6E21E47079600F9D73D /* dShare.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dShare.png; sourceTree = "<group>"; };
+		0723C6E61E4707FE00F9D73D /* UIImage+ResizeImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+ResizeImage.h"; sourceTree = "<group>"; };
+		0723C6E71E4707FE00F9D73D /* UIImage+ResizeImage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+ResizeImage.m"; sourceTree = "<group>"; };
+		0723C6E91E471F0500F9D73D /* col.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = col.jpeg; sourceTree = "<group>"; };
+		0723C6EA1E471F0500F9D73D /* Food.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Food.jpg; sourceTree = "<group>"; };
+		0723C6EE1E4720BE00F9D73D /* KICamera.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = KICamera.png; sourceTree = "<group>"; };
+		0723C6EF1E4720BE00F9D73D /* KICamera@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "KICamera@2x.png"; sourceTree = "<group>"; };
+		0723C6F01E4720BE00F9D73D /* KIImagePager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KIImagePager.h; sourceTree = "<group>"; };
+		0723C6F11E4720BE00F9D73D /* KIImagePager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KIImagePager.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,8 +101,61 @@
 			isa = PBXGroup;
 			children = (
 				0723C6C01E46F37800F9D73D /* main.m */,
+				0723C6DE1E4703B800F9D73D /* images */,
+				0723C6D91E46FD7B00F9D73D /* HelperClass */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		0723C6D91E46FD7B00F9D73D /* HelperClass */ = {
+			isa = PBXGroup;
+			children = (
+				0723C6ED1E4720BE00F9D73D /* KIImagePager */,
+				0723C6E51E4707FE00F9D73D /* ResizeImage */,
+				0723C6DA1E46FD7B00F9D73D /* DynamicSizeMe */,
+			);
+			path = HelperClass;
+			sourceTree = "<group>";
+		};
+		0723C6DA1E46FD7B00F9D73D /* DynamicSizeMe */ = {
+			isa = PBXGroup;
+			children = (
+				0723C6DB1E46FD7B00F9D73D /* UILabel+dynamicSizeMe.h */,
+				0723C6DC1E46FD7B00F9D73D /* UILabel+dynamicSizeMe.m */,
+			);
+			path = DynamicSizeMe;
+			sourceTree = "<group>";
+		};
+		0723C6DE1E4703B800F9D73D /* images */ = {
+			isa = PBXGroup;
+			children = (
+				0723C6E91E471F0500F9D73D /* col.jpeg */,
+				0723C6EA1E471F0500F9D73D /* Food.jpg */,
+				0723C6DF1E4703B800F9D73D /* FoodScout.png */,
+				0723C6E11E47079600F9D73D /* dCall.png */,
+				0723C6E21E47079600F9D73D /* dShare.png */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
+		0723C6E51E4707FE00F9D73D /* ResizeImage */ = {
+			isa = PBXGroup;
+			children = (
+				0723C6E61E4707FE00F9D73D /* UIImage+ResizeImage.h */,
+				0723C6E71E4707FE00F9D73D /* UIImage+ResizeImage.m */,
+			);
+			path = ResizeImage;
+			sourceTree = "<group>";
+		};
+		0723C6ED1E4720BE00F9D73D /* KIImagePager */ = {
+			isa = PBXGroup;
+			children = (
+				0723C6EE1E4720BE00F9D73D /* KICamera.png */,
+				0723C6EF1E4720BE00F9D73D /* KICamera@2x.png */,
+				0723C6F01E4720BE00F9D73D /* KIImagePager.h */,
+				0723C6F11E4720BE00F9D73D /* KIImagePager.m */,
+			);
+			path = KIImagePager;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -141,8 +217,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				0723C6D21E46F37800F9D73D /* LaunchScreen.storyboard in Resources */,
+				0723C6F21E4720BE00F9D73D /* KICamera.png in Resources */,
 				0723C6CF1E46F37800F9D73D /* Assets.xcassets in Resources */,
+				0723C6E41E47079600F9D73D /* dShare.png in Resources */,
+				0723C6E31E47079600F9D73D /* dCall.png in Resources */,
+				0723C6F31E4720BE00F9D73D /* KICamera@2x.png in Resources */,
+				0723C6E01E4703B800F9D73D /* FoodScout.png in Resources */,
 				0723C6CA1E46F37800F9D73D /* Main.storyboard in Resources */,
+				0723C6EB1E471F0500F9D73D /* col.jpeg in Resources */,
+				0723C6EC1E471F0500F9D73D /* Food.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -155,8 +238,11 @@
 			files = (
 				0723C6C71E46F37800F9D73D /* ViewController.m in Sources */,
 				0723C6C41E46F37800F9D73D /* AppDelegate.m in Sources */,
+				0723C6F41E4720BE00F9D73D /* KIImagePager.m in Sources */,
 				0723C6CD1E46F37800F9D73D /* Card_View.xcdatamodeld in Sources */,
 				0723C6C11E46F37800F9D73D /* main.m in Sources */,
+				0723C6DD1E46FD7B00F9D73D /* UILabel+dynamicSizeMe.m in Sources */,
+				0723C6E81E4707FE00F9D73D /* UIImage+ResizeImage.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -311,6 +397,7 @@
 				0723C6D81E46F37800F9D73D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
